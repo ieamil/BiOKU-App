@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714176880599",
+    "project_id": "bioku-e54b3",
+    "storage_bucket": "bioku-e54b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714176880599:android:b1de4d60da565ea96cb592",
+        "android_client_info": {
+          "package_name": "com.bioku.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmIDQm9lev8UK_PplA2H2bth0E_ncnei0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
